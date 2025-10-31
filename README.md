@@ -1,91 +1,20 @@
-คุณสามารถเขียน **README.md** ให้บอกวิธีรัน Frontend และ Backend แบบชัดเจนได้ประมาณนี้:
-
-````markdown
-# Check It Off Project
-
-## Prerequisites
-
-- Node.js (สำหรับ frontend)
-- npm (มาพร้อม Node.js)
-- Java 21 (สำหรับ backend)
-- Maven (หรือใช้ `mvnw` ที่มากับโปรเจกต์)
-- Docker (ถ้าต้องการรัน MySQL + phpMyAdmin ผ่าน Docker)
+## Term Project
+The Term Project SE331 Component-Based Software Development 2<br>
+**project-01-the-anti-fake-news-system-check-it-off Phase II** <br>
+**Fontend Deployment :** https://the-social-anti-fake-news-system-ph.vercel.app/ <br>
+**Old Version (Reference) :** [View on Vercel Old Version Next.js](https://project-01-the-anti-fake-news-syste-eight.vercel.app/)
 
 ---
 
-## รัน Frontend
+<br>
 
-1. เข้าไปที่โฟลเดอร์ frontend:
+## Group Member : Check It Off Phase II
+- **Name:** Nawapon Somruang  
+- **Student ID:** 662115027  
 
-```bash
-cd frontend
-````
-
-2. ติดตั้ง dependencies (ครั้งแรก):
-
-```bash
-npm install
-```
-
-3. รันโปรเจกต์:
-
-```bash
-npm run dev
-```
-
-Frontend จะรันที่ `http://localhost:5173/`
+Welcome to the **Check it off Anti-Fake News System** project.  
+This project is designed to help identify and manage fake news using modern web technologies.  
 
 ---
 
-## รัน Backend
-
-### Option 1: ใช้ Maven Wrapper (แนะนำ)
-
-1. เข้าไปที่โฟลเดอร์ backend:
-
-```powershell
-cd backend/checkitoff-backend
-```
-
-2. รัน Spring Boot:
-
-```powershell
-.\mvnw.cmd spring-boot:run
-```
-
-### Option 2: ใช้ IntelliJ IDEA
-
-1. เปิดโปรเจกต์ backend ใน IntelliJ IDEA
-2. เปิดไฟล์ `CheckitoffBackendApplication.java`
-3. กดปุ่ม **Run** (เครื่องหมาย ▶️) เพื่อรัน Spring Boot
-4. Backend จะรันที่ `http://localhost:8080/`
-
----
-
-## Database (MySQL + phpMyAdmin) ผ่าน Docker (Optional)
-
-1. เข้าไปที่โฟลเดอร์ `checkitoff-db`:
-
-```bash
-cd checkitoff-db
-```
-
-2. รัน Docker Compose:
-
-```bash
-docker compose up -d
-```
-
-3. phpMyAdmin จะรันที่ `http://localhost:9000/`
-
-   * Username: `root`
-   * Password: `password`
-
-```
-
----
-
-ถ้าคุณอยาก ผมช่วยทำ **เวอร์ชัน README.md แบบสั้น ๆ สำหรับส่งงานอาจารย์** ที่เน้น “รันง่าย ๆ ไม่ต้องตั้งค่าเยอะ” ให้ด้วยได้เลย จะได้ไม่งงตอนอาจารย์รัน.  
-
-คุณอยากให้ผมทำไหม?
-```
+<br>
