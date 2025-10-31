@@ -20,17 +20,6 @@ cd frontend
 npm install
 npm run dev
 
-
-โอเค! ถ้าเรากำลังเขียน **README** ให้ชัดเจนสำหรับคนที่ต้องรันทั้ง **Frontend** และ **Backend** คุณสามารถทำแบบนี้ได้เลย:
-
-````markdown
-## Run Frontend
-
-1. เข้าไปที่โฟลเดอร์ frontend
-```bash
-cd frontend
-````
-
 2. ติดตั้ง dependencies
 
 ```bash
