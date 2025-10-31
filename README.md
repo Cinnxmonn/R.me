@@ -34,6 +34,5 @@ cd checkitoff-backend
 ./mvnw spring-boot:run
 ````
 The backend will run at `http://localhost:8080` (or the port configured in your settings)
-```
 
 ---
