@@ -29,8 +29,6 @@ npm run dev
 
 The frontend will run at `http://localhost:5173` (or the port shown when running `npm run dev`)
 
----
-
 **2. Run Backend**
 ```bash
 # Navigate to the Spring Boot project folder
