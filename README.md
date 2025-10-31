@@ -41,11 +41,9 @@ cd backend/checkitoff-backend
 
 # Run the backend on Mac/Linux
 ./mvnw spring-boot:run
-````
-Or
-```bash
-open the checkitoff-backend project in IntelliJ IDEA and run the backend by clicking the green Run button on the CheckitoffBackendApplication class.
 ```
+**Or**
+open the checkitoff-backend project in IntelliJ IDEA and run the backend by clicking the green Run button on the CheckitoffBackendApplication class.
 
 The backend will run at `http://localhost:8080` (or the port configured in your settings)
 
