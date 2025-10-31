@@ -1,10 +1,10 @@
 ## Term Project
-The Term Project SE331 Component-Based Software Development <br>
-- **project-01-the-anti-fake-news-system-check-it-off Phase II** <br>
-- **Frontend Deployment :** https://the-social-anti-fake-news-system-ph.vercel.app/ But it can't use various functions because it can't connect to the backend yet. <br>
-- **Backend Deployment :** I have to admit that the backend deployment was not completed because the frontend was deployed but could not connect to the backend.
+The Term Project SE331 Component-Based Software Development 
+- **project-01-the-anti-fake-news-system-check-it-off Phase II**.
+- **Frontend Deployment:** https://the-social-anti-fake-news-system-ph.vercel.app/ (but it can't use various functions because it can't connect to the backend yet).
+- **Backend Deployment:** I have to admit that the backend deployment was not completed because the frontend was deployed but could not connect to the backend.
 Ajan may run the backend and frontend separately on machines to test the system.
-<br>
+
 
 ## Group Member : Check It Off Phase II
 **Name:** Nawapon Somruang  **Student ID:** 662115027 
