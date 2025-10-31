@@ -43,7 +43,7 @@ cd backend/checkitoff-backend
 ./mvnw spring-boot:run
 ```
 **Or**
-open the checkitoff-backend project in IntelliJ IDEA and run the backend by clicking the green Run button on the CheckitoffBackendApplication class.
+open the checkitoff-backend project in **IntelliJ IDEA** and run the backend by clicking the green Run button on the CheckitoffBackendApplication class.
 
 The backend will run at `http://localhost:8080` (or the port configured in your settings)
 
