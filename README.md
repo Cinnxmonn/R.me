@@ -18,4 +18,11 @@ Teachers may download the project files from [this Google Drive folder](https://
 ```bash
 cd frontend
 npm install
-npm run dev
+npm run dev```
+
+**Run Backend:**
+```bash
+cd backend\checkitoff-backend
+.\mvnw.cmd spring-boot:run```
+
+
