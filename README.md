@@ -33,10 +33,15 @@ The frontend will run at `http://localhost:5173` (or the port shown when running
 
 **2. Run Backend**
 ```bash
-cd backend
-cd checkitoff-backend
+# Navigate to the Spring Boot project folder
+cd backend/checkitoff-backend
+
+# Run the backend on Windows
 .\mvnw.cmd spring-boot:run
+
+# Run the backend on Mac/Linux
 ./mvnw spring-boot:run
+
 ````
 The backend will run at `http://localhost:8080` (or the port configured in your settings)
 
