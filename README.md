@@ -19,11 +19,6 @@ Teachers may download the project files from [this Google Drive folder](https://
 cd frontend
 npm install
 npm run dev
-
-2. ติดตั้ง dependencies
-
-```bash
-npm install
 ```
 
 3. รัน frontend
@@ -34,7 +29,7 @@ npm run dev
 
 Frontend จะรันที่ `http://localhost:5173` (หรือ port ที่ npm dev แสดง)
 
-````
+```
 
 ---
 
