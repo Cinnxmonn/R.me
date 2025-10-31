@@ -14,6 +14,7 @@ Ajan may run the backend and frontend separately on machines to test the system.
 ## Check it off Anti-Fake News System Phase 2.
 **Local Testing:** Teachers may download the project files from , then run the frontend and backend separately on machines:
 <br>
+
 **Run Frontend:**  
 ```bash
 cd frontend
