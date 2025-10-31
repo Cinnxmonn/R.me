@@ -13,17 +13,11 @@ Ajan may run the backend and frontend separately on machines to test the system.
 <br>
 **Local Testing:**  
 Teachers may download the project files from [this Google Drive folder](https://drive.google.com/drive/folders/1kmDnCV_U07wUAyrRj72mjnnJTvCtjANi?usp=sharing), then run the frontend and backend separately on their machines:
-
+<br>
 **Run Frontend:**  
 ```bash
 cd frontend
 npm install
-npm run dev
-```
-
-3. รัน frontend
-
-```bash
 npm run dev
 ```
 
