@@ -5,14 +5,14 @@ The Term Project SE331 Component-Based Software Development 2<br>
 **Backend Deployment :**  <br> I have to admit that the backend deployment was not completed because the frontend was deployed but could not connect to the backend. <br>
 Ajan may run the backend and frontend separately on machines to test the system.
 <br>
+
 ## Group Member : Check It Off Phase II
 - **Name:** Nawapon Somruang  
 - **Student ID:** 662115027  
-
-## Check it off Anti-Fake News System Phase 2.  
 <br>
-**Local Testing:**  
-Teachers may download the project files from [this Google Drive folder](https://drive.google.com/drive/folders/1kmDnCV_U07wUAyrRj72mjnnJTvCtjANi?usp=sharing), then run the frontend and backend separately on their machines:
+
+## Check it off Anti-Fake News System Phase 2.
+**Local Testing:** Teachers may download the project files from , then run the frontend and backend separately on machines:
 <br>
 **Run Frontend:**  
 ```bash
