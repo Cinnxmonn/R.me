@@ -26,48 +26,14 @@ The frontend will run at `http://localhost:5173` (or the port shown when running
 
 ---
 
-## Run Backend
-
-1. เข้าไปที่โฟลเดอร์ backend
+**2. Run Backend**
 ```bash
 cd backend
+cd checkitoff-backend
+.\mvnw.cmd spring-boot:run
+./mvnw spring-boot:run
 ````
-
-2. ติดตั้ง dependencies (ถ้าเป็น Node.js)
-
-```bash
-npm install
-```
-
-หรือถ้าเป็น Spring Boot:
-
-```bash
-./mvnw clean install
-```
-
-3. รัน backend
-
-```bash
-npm run dev    # ถ้าเป็น Node.js
-```
-
-หรือ
-
-```bash
-./mvnw spring-boot:run   # ถ้าเป็น Spring Boot
-```
-
-Backend จะรันที่ `http://localhost:8080` (หรือ port ที่ config ไว้)
-
+The backend will run at `http://localhost:8080` (or the port configured in your settings)
 ```
 
 ---
-
-💡 **Tip:** คุณอาจเพิ่มบอกว่าต้องรัน **Backend ก่อน** แล้วค่อยรัน Frontend เพื่อให้ API เชื่อมต่อได้ตรง ๆ  
-
----
-
-ถ้าคุณอยาก ผมช่วยเขียนเป็น **README แบบเต็ม ๆ ที่รวม Frontend + Backend + Notes สำหรับ Env** ให้เรียบร้อยเลยก็ได้ จะได้สวย ๆ อ่านง่าย ๆ.  
-
-คุณอยากให้ผมทำแบบนั้นไหม?
-```
