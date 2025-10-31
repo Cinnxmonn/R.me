@@ -1,8 +1,8 @@
 ## Term Project
 The Term Project SE331 Component-Based Software Development 2<br>
 **project-01-the-anti-fake-news-system-check-it-off Phase II** <br>
-**Fontend Deployment :** https://the-social-anti-fake-news-system-ph.vercel.app/ <br>
-**Old Version (Reference) :** [View on Vercel Old Version Next.js](https://project-01-the-anti-fake-news-syste-eight.vercel.app/)
+**Frontend Deployment :** https://the-social-anti-fake-news-system-ph.vercel.app/ <br>
+**Backend Deployment :** I have to admit that the backend deployment was not completed because the frontend was deployed but could not connect to the backend.
 
 ---
 
