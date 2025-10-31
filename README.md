@@ -15,16 +15,14 @@ Ajan may run the backend and frontend separately on machines to test the system.
 **Local Testing:** Teachers may download the project files from , then run the frontend and backend separately on machines:
 <br>
 
-**Run Frontend:**  
+**1.Run Frontend:**  
 ```bash
 cd frontend
 npm install
 npm run dev
 ```
 
-Frontend จะรันที่ `http://localhost:5173` (หรือ port ที่ npm dev แสดง)
-
-```
+The frontend will run at `http://localhost:5173` (or the port shown when running `npm run dev`)
 
 ---
 
