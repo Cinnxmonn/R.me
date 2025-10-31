@@ -17,9 +17,9 @@ Ajan may run the backend and frontend separately on machines to test the system.
 
 **1.Run Frontend:**  
 ```bash
-cd frontend
-npm install
-npm run dev
+cd frontend # Navigate to the frontend folder of the project
+npm install # Install all necessary project dependencies
+npm run dev # Start the frontend development server (usually runs at localhost:5173)
 ```
 
 The frontend will run at `http://localhost:5173` (or the port shown when running `npm run dev`)
