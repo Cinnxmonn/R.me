@@ -15,7 +15,7 @@ Ajan may run the backend and frontend separately on machines to test the system.
 **Local Testing:** Teachers may download the project files from , then run the frontend and backend separately on machines:
 <br>
 
-**1.Run Frontend:**  
+**1. Run Frontend:**  
 ```bash
 # Navigate to the frontend folder of the project
 cd frontend
