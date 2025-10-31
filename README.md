@@ -9,9 +9,6 @@ Ajan may run the backend and frontend separately on machines to test the system.
 - **Name:** Nawapon Somruang  
 - **Student ID:** 662115027  
 
-Welcome to the **Check it off Anti-Fake News System** project.  
-This project is designed to help identify and manage fake news using modern web technologies.  
-
----
+ **Check it off Anti-Fake News System Phase 2**.  
 
 <br>
