@@ -11,7 +11,7 @@ Ajan may run the backend and frontend separately on machines to test the system.
 - **Student ID:** 662115027  
 <br>
 
-## Check it off Anti-Fake News System Phase 2.
+## Check it off Anti-Fake News System Phase II.
 **Local Testing:** Teachers may download the project files from , then run the frontend and backend separately on machines:
 <br>
 
