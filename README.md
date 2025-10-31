@@ -11,7 +11,7 @@ Ajan may run the backend and frontend separately on machines to test the system.
 <br>
 
 ## Check it off Anti-Fake News System Phase II.
-**Local Testing:** Ajan may download the project files from [here](https://drive.google.com/drive/folders/1kmDnCV_U07wUAyrRj72mjnnJTvCtjANi?usp=sharing), and then run the frontend and backend separately on machines:
+**Local Testing:** Ajan may download the project files from [Google Drive](https://drive.google.com/drive/folders/1kmDnCV_U07wUAyrRj72mjnnJTvCtjANi?usp=sharing), and then run the frontend and backend separately on machines:
 <br>
 
 **1. Run Frontend:**  
